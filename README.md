@@ -1,5 +1,5 @@
 # Clipboard-Saver
-Windows only sysy tray clipboard manager that handles text and images.
+Windows only sys tray clipboard manager that handles text and images.
 
 Clipboard Saver V1.1 
 
