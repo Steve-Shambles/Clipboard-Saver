@@ -1,0 +1,6 @@
+infi==0.0.1
+infi.systray==0.1.12
+keyboard==0.13.5
+Pillow==9.5.0
+PyAutoGUI==0.9.53
+pyperclip==1.8.2
