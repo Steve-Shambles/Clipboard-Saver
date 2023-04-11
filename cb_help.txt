@@ -37,7 +37,7 @@ You can view your saved data by clicking on the "Containing folder" menu item
 and looking in the "clipboard_text" and "clipboard_images" folders.
 
 If you want to create a series of screenshots then select "Burst Save"
-and from the sub-menu how many screenshots you want to take, from 5 to 300.
+and from the sub-menu how many screenshots you want to take, from 5 to 60.
 A screenshot will be snapped of your current screen every second and saved
 to the "Clipboard Images" folder.
 You can abort a burst any time by holding down the escape key for 2 seconds.
