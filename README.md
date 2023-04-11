@@ -5,6 +5,8 @@ Clipboard Saver V1.1
 
 Freeware by Steve Shambles March 2021 - Updated April 2023 (I took a 2 year break from programming).
 
+![Alt Text](https://github.com/Steve-Shambles/Clipboard-Saver/blob/main/cbsaverV1_1_screenshot.png)
+
 CB Saver (or Clipboard Saver. I still can't decide!) is a little system tray (or taskbar) app that gives you a bit more control over your Windows (7) clipboard.
 
 For example If you want to save the contents of your clipboard at any time simply double-click the CB Saver icon in the taskbar, if  the clipbaord contains text it will be saved in a folder called "clipboard_texts", if it is an image it will be saved in "clipboard_images", you can instantly access these folders by right-clicking the CB Saver icon and selecting the "Open containg folder" item.
